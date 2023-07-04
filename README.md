@@ -30,6 +30,6 @@ Project 2: A web application built with **HTML, CSS,** and **JavaScript,** provi
 Apart from coding, I'm also interested in exploring new technologies, learning about the latest advancements in the field, and collaborating with fellow developers to create innovative solutions.
 
 📫 Contact Me
-If you would like to get in touch or collaborate on a project, feel free to reach out to me via email at **stephsteel8@gmail.com** or connect with me on **LinkedIn.**
+If you would like to get in touch or collaborate on a project, feel free to reach out to me via email at **stephsteel8@gmail.com**
 
 Let's connect and create something amazing together! :smiley:
